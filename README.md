@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-
+<img width="530" alt="Screen Shot 2021-08-18 at 12 31 42 AM" src="https://user-images.githubusercontent.com/38086269/129804067-43de2abe-dbd9-4917-98a9-310fd92ad6a6.png">
 <img src="https://github.com/Dawith305/we-talk/blob/master/we-talk-chat.png"
 
 ## Available Scripts
