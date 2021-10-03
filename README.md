@@ -1,5 +1,6 @@
 # We-Talk
 
+### Demo https://we-talk-ceb5e.firebaseapp.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 Chat Application Developed the front-end using ReactJs, Redux for State Management, and Styled Components. For authentication used firebase auth GoogleSignIn specifically. The backend is done using NoSQL Firebase Cloud FireStore Database. The app is hosted on Firebase hosting using Firebase CLI.
 
